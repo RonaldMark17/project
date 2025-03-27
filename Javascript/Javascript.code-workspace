@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Javascript",
+			"path": "."
+		},
+		{
+			"name": "Milktea and coffee",
+			"path": "../../../Downloads/Milktea and coffee-20250302T124054Z-001/Milktea and coffee"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Javascript"
+	}
+}
